@@ -1,0 +1,31 @@
+.header{
+	height: 102px;
+	background-color: #434343;
+	padding-top: 15px;
+	margin-bottom: 10px;
+}
+
+.header h1{
+	display: inline-block;
+	position: absolute;
+	left: 100px;
+	color: white;
+	bottom: 5px;
+}
+
+body{
+	background-image: url(../vlcsnap-2018-06-12-13h07m02s231.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+form .btn{
+	width: 100%;
+}
+
+.footer{
+	height: 80px;
+	background-color: black;
+	margin-top: 10px;
+}
+
